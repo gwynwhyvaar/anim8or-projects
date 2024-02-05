@@ -28,11 +28,7 @@ object { "boulder#1"
         rgb { 112 200 33 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "boulder_stone_mat"
@@ -48,11 +44,7 @@ object { "boulder#1"
         rgb { 68 68 68 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   mesh {
@@ -100,11 +92,7 @@ object { "boulder#2"
         rgb { 80 137 11 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "boulder_stone_mat_02"
@@ -120,11 +108,7 @@ object { "boulder#2"
         rgb { 114 114 114 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   mesh {
@@ -172,11 +156,7 @@ object { "boulder#4"
         rgb { 77 192 16 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "stone_mat_03"
@@ -192,11 +172,7 @@ object { "boulder#4"
         rgb { 103 116 130 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   mesh {
@@ -242,11 +218,7 @@ object { "boulder#1_2"
         rgb { 112 200 33 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "boulder_stone_mat"
@@ -262,11 +234,7 @@ object { "boulder#1_2"
         rgb { 68 68 68 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   mesh {
@@ -314,11 +282,7 @@ object { "plan#1"
         rgb { 197 237 130 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "boulder_mat_004"
@@ -333,10 +297,6 @@ object { "plan#1"
       diffuse {
         rgb { 209 209 209 }
         factor { 0.70000 }
-      }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
       }
       phongsize { 32 }
     }
@@ -385,11 +345,7 @@ object { "plane#2"
         rgb { 197 237 130 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "boulder_mat_005"
@@ -405,11 +361,7 @@ object { "plane#2"
         rgb { 93 50 29 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   mesh {
