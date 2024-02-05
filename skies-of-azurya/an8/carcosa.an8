@@ -394,3 +394,49 @@ object { "plane#2"
     }
   }
 }
+object { "obelisk"
+  material { "obelisk_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 0 0 0 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 0 0 0 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 0 0 0 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  mesh {
+    name { "obelisk_mesh" }
+    base {
+      origin { (-0.22400 0.78600 0) }
+    }
+    material { "obelisk_mat" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { "obelisk_mat" }
+    }
+    points {
+      (-11.679 -51.74 -11.679) (-11.679 -51.74 11.679) (-9.6521 51.74 -9.6521) 
+      (-9.6521 51.74 9.6521) (11.679 -51.74 -11.679) (11.679 -51.74 11.679) 
+      (9.6521 51.74 -9.6521) (9.6521 51.74 9.6521)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 0 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 0 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 0 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 0 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
