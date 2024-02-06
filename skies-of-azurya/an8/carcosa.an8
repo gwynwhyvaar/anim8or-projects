@@ -440,3 +440,55 @@ object { "obelisk"
     }
   }
 }
+object { "water"
+  material { "water_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 1 34 93 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 1 34 93 }
+        factor { 1 }
+      }
+      diffuse {
+        rgb { 1 34 93 }
+        factor { 25 }
+      }
+      emissive {
+        rgb { 0 0 0 }
+        factor { 250 }
+      }
+      alpha { 127 }
+      brilliance { 5 }
+      phongsize { 4 }
+    }
+  }
+  mesh {
+    name { "water_mesh" }
+    base {
+      origin { (-0.33000 0 -0.24800) }
+    }
+    material { "water_mat" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { "water_mat" }
+    }
+    points {
+      (-38.398 -27.085 -38.398) (-38.398 -27.085 38.398) 
+      (-38.398 27.085 -38.398) (-38.398 27.085 38.398) (38.398 -27.085 -38.398) 
+      (38.398 -27.085 38.398) (38.398 27.085 -38.398) (38.398 27.085 38.398)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 0 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 0 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 0 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 0 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
