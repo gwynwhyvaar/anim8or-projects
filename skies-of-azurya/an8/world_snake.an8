@@ -3788,7 +3788,7 @@ object { "leviathan_head"
     }
   }
 }
-object { "object02"
+object { "idol_base"
   material { "serpent_stone_mat"
     surface {
       /* RGB chunk no longer used */
@@ -6246,4 +6246,6 @@ object { "idol"
       4 0 0 -1 ( (1050) (1049) (1048) (1051) )
     }
   }
+}
+object { "object02"
 }
