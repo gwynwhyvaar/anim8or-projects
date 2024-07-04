@@ -15,16 +15,77 @@ environment {
   }
 }
 object { "body"
+  material { "cockpit"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 125 17 131 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 125 17 131 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 125 17 131 }
+        factor { 0.70000 }
+      }
+      specular {
+        rgb { 255 255 255 }
+        factor { 0.70000 }
+      }
+      emissive {
+        rgb { 121 18 126 }
+        factor { 0.90000 }
+      }
+      phongsize { 32 }
+    }
+  }
+  material { "spaceship_frame"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 159 162 248 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 159 162 248 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 159 162 248 }
+        factor { 0.70000 }
+      }
+      phongsize { 0 }
+    }
+  }
+  material { "jet_booster"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 245 105 175 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 245 105 175 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 245 105 175 }
+        factor { 0.70000 }
+      }
+      emissive {
+        rgb { 122 9 65 }
+        factor { 0.90000 }
+      }
+      phongsize { 0 }
+    }
+  }
   mesh {
     name { "mesh01" }
     base {
       origin { (-0.73850 -11.145 -3.971) }
     }
-    material { " -- default --" }
+    material { "spaceship_frame" }
     smoothangle { 45 }
     /* 112 points, 107 faces, 8 uvCoords */
     materiallist {
-      materialname { " -- default --" }
+      materialname { "spaceship_frame" }
+      materialname { "jet_booster" }
     }
     points {
       (-8.8568 1.6805 -10.657) (-4.5548 9.556 10.657) (-8.8568 5.6616 -10.657) 
@@ -108,7 +169,7 @@ object { "body"
       4 0 0 -1 ( (38) (39) (45) (44) )
       4 0 0 -1 ( (39) (40) (46) (45) )
       4 0 0 -1 ( (40) (41) (47) (46) )
-      6 0 0 -1 ( (42) (43) (44) (45) (46) (47) )
+      6 0 1 -1 ( (42) (43) (44) (45) (46) (47) )
       4 0 0 -1 ( (11) (10) (48) (55) )
       4 0 0 -1 ( (10) (17) (49) (48) )
       4 0 0 -1 ( (17) (12) (50) (49) )
@@ -186,11 +247,11 @@ object { "body"
       origin { (-0.64595 -1.6146 -18.945) }
       orientation { (-0.21814 0 0 0.97592) }
     }
-    material { " -- default --" }
+    material { "cockpit" }
     smoothangle { 45 }
     /* 16 points, 12 faces, 8 uvCoords */
     materiallist {
-      materialname { " -- default --" }
+      materialname { "cockpit" }
     }
     points {
       (-8.6354 -2.368 -5.8608) (-3.8224 0.65824 6.8159) 
