@@ -1,0 +1,111 @@
+# Created with Anim8or 0.98
+# Object "demonologist":
+
+newmtl hat
+Ka 0.141 0.141 0.141
+Kd 0.141 0.141 0.141
+Ks 1 1 1
+Ns 742.5
+
+newmtl _bark
+Ka 0.231 0.0157 0.0314
+Kd 0.231 0.0157 0.0314
+Ks 1 1 1
+Ns 752.6
+
+newmtl _orb
+Ka 0.969 0.62 0.91
+Kd 0.588 0.0275 0.196
+Ks 1 1 1
+Ns 993.4
+
+newmtl book_leaf
+Ka 0.961 0.902 0.694
+Kd 0.961 0.902 0.694
+Ks 1 1 1
+Ns 742.5
+
+newmtl book_cover
+Ka 0.286 0.0392 0.0235
+Kd 0.286 0.0392 0.0235
+Ks 1 1 1
+Ns 742.5
+
+newmtl cloak
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 742.5
+
+newmtl cloak_hem
+Ka 0.914 0.0157 0.0157
+Kd 0.914 0.0157 0.0157
+Ks 1 1 1
+Ns 742.5
+
+newmtl clothMat
+Ka 0.0824 0.0824 0.0824
+Kd 0.357 0.00392 0.0667
+Ks 1 1 1
+Ns 0.0
+
+newmtl _shawl
+Ka 0.933 0.137 0.137
+Kd 0.933 0.137 0.137
+Ks 1 1 1
+Ns 752.6
+
+newmtl hair___top
+Ka 0.984 0.918 0.984
+Kd 0.984 0.918 0.984
+Ks 1 1 1
+Ns 742.5
+
+newmtl skin
+Ka 0.596 0.588 0.933
+Kd 0.596 0.588 0.933
+Ks 1 1 1
+Ns 742.5
+
+newmtl eyelid
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 742.5
+
+newmtl eye
+Ka 0.98 0.11 0.0392
+Kd 0.98 0.11 0.0392
+Ks 1 1 1
+Ns 0.0
+
+newmtl hair___base
+Ka 0.98 0.894 0.969
+Kd 0.98 0.894 0.969
+Ks 1 1 1
+Ns 742.5
+
+newmtl nails
+Ka 0.804 0.804 0.804
+Kd 0.804 0.804 0.804
+Ks 1 1 1
+Ns 391.3
+
+newmtl gloves
+Ka 0.216 0.216 0.216
+Kd 0.0549 0.0549 0.0549
+Ks 1 1 1
+Ns 391.3
+
+newmtl demone_stone_hol
+Ka 0.231 0.0157 0.0314
+Kd 0.231 0.0157 0.0314
+Ks 1 1 1
+Ns 391.3
+
+newmtl demone_stone_mat
+Ka 0.969 0.62 0.91
+Kd 0.322 0.0235 0.357
+Ks 1 1 1
+Ns 993.4
+
