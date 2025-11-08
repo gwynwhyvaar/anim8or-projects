@@ -1,0 +1,76 @@
+# Created with Anim8or 0.98
+# Object "acolyte_t__pose":
+
+newmtl cloak
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 738.6
+
+newmtl cloak_hem
+Ka 0.914 0.0157 0.0157
+Kd 0.914 0.0157 0.0157
+Ks 1 1 1
+Ns 738.6
+
+newmtl arm_skin
+Ka 0.596 0.588 0.933
+Kd 0.596 0.588 0.933
+Ks 1 1 1
+Ns 738.6
+
+newmtl gloves
+Ka 0.216 0.216 0.216
+Kd 0.216 0.216 0.216
+Ks 1 1 1
+Ns 738.6
+
+newmtl nails
+Ka 0.106 0.106 0.106
+Kd 0.106 0.106 0.106
+Ks 1 1 1
+Ns 997.8
+
+newmtl wing_frame
+Ka 0.176 0.0353 0.0431
+Kd 0.176 0.0353 0.0431
+Ks 1 1 1
+Ns 738.6
+
+newmtl wing_innard
+Ka 0.886 0.0431 0.0667
+Kd 0.886 0.0431 0.0667
+Ks 1 1 1
+d 0.5
+Ns 738.6
+
+newmtl hair___base
+Ka 0.98 0.894 0.969
+Kd 0.98 0.894 0.969
+Ks 1 1 1
+Ns 738.6
+
+newmtl hair___top
+Ka 0.984 0.918 0.984
+Kd 0.984 0.918 0.984
+Ks 1 1 1
+Ns 738.6
+
+newmtl skin
+Ka 0.596 0.588 0.933
+Kd 0.596 0.588 0.933
+Ks 1 1 1
+Ns 738.6
+
+newmtl eyelid
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 738.6
+
+newmtl eye
+Ka 0.98 0.11 0.0392
+Kd 0.98 0.11 0.0392
+Ks 1 1 1
+Ns 0.0
+
