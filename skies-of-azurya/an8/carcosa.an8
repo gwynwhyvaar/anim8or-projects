@@ -1,0 +1,494 @@
+header {
+  version { "0.98" }
+  build { "2014.01.23" }
+}
+environment {
+  grid { 1 10 50 50 }
+  lighting {
+    intensity { 1 }
+    ambientintensity { 0.20000 }
+  }
+  framerate { 24 }
+  film {
+    size { 400 300 }
+    ratio { 4 3 }
+  }
+}
+object { "boulder#1"
+  material { "grass_top_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 112 200 33 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 112 200 33 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 112 200 33 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  material { "boulder_stone_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 68 68 68 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 68 68 68 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 68 68 68 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  mesh {
+    name { "boulder_mesh_01" }
+    base {
+      origin { (-0.75400 0.10800 0) }
+    }
+    material { " -- default --" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { " -- default --" }
+      materialname { "grass_top_mat" }
+      materialname { "boulder_stone_mat" }
+    }
+    points {
+      (-13.778 -17.869 -13.778) (-13.778 -17.869 13.778) 
+      (-7.9225 17.869 -7.9225) (-7.9225 17.869 7.9225) (13.778 -17.869 -13.778) 
+      (13.778 -17.869 13.778) (7.9225 17.869 -7.9225) (7.9225 17.869 7.9225)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 2 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 2 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 2 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 1 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
+object { "boulder#2"
+  material { "grass_top_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 80 137 11 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 80 137 11 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 80 137 11 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  material { "boulder_stone_mat_02"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 114 114 114 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 114 114 114 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 114 114 114 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  mesh {
+    name { "boulder_mesh_02" }
+    base {
+      origin { (0 0.44900 0) }
+    }
+    material { " -- default --" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { " -- default --" }
+      materialname { "boulder_stone_mat_02" }
+      materialname { "grass_top_mat" }
+    }
+    points {
+      (-15.376 -26.375 -15.376) (-15.376 -26.375 15.376) (-12.602 26.375 -10.77)
+      (-12.602 26.375 12.602) (0.11224 -26.375 -0.11224) (15.376 -26.375 15.376)
+      (-0.83052 26.375 0.83052) (10.77 26.375 12.602)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 1 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 1 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 1 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 1 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 2 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 1 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
+object { "boulder#4"
+  material { "grass_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 77 192 16 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 77 192 16 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 77 192 16 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  material { "stone_mat_03"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 103 116 130 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 103 116 130 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 103 116 130 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  mesh {
+    name { "boulder_mesh_04" }
+    base {
+      origin { (0.11200 0 0.22400) }
+    }
+    material { "stone_mat_03" }
+    smoothangle { 45 }
+    /* 12 points, 7 faces, 0 uvCoords */
+    materiallist {
+      materialname { "stone_mat_03" }
+      materialname { "grass_mat" }
+    }
+    points {
+      (11.363 0 -19.681) (22.726 0 0) (11.363 0 19.681) (-11.363 0 19.681) 
+      (-22.726 0 0) (-11.363 0 -19.681) (17.726 14.347 0) (8.8631 14.347 15.351)
+      (-8.8631 14.347 15.351) (-17.726 14.347 0) (-8.8631 14.347 -15.351) 
+      (8.8631 14.347 -15.351)
+    }
+    faces {
+      4 0 0 -1 ( (0) (1) (6) (11) )
+      4 0 0 -1 ( (1) (2) (7) (6) )
+      4 0 0 -1 ( (2) (3) (8) (7) )
+      4 0 0 -1 ( (3) (4) (9) (8) )
+      4 0 0 -1 ( (4) (5) (10) (9) )
+      4 0 0 -1 ( (5) (0) (11) (10) )
+      6 0 1 -1 ( (6) (7) (8) (9) (10) (11) )
+    }
+  }
+}
+object { "boulder#1_2"
+  material { "grass_top_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 112 200 33 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 112 200 33 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 112 200 33 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  material { "boulder_stone_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 68 68 68 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 68 68 68 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 68 68 68 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  mesh {
+    name { "boulder_mesh_01_02" }
+    base {
+      origin { (-0.75400 0.10800 0) }
+    }
+    material { " -- default --" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { " -- default --" }
+      materialname { "grass_top_mat" }
+      materialname { "boulder_stone_mat" }
+    }
+    points {
+      (-13.778 -17.869 -13.778) (-13.778 -17.869 13.778) 
+      (-7.9225 17.869 -7.9225) (-7.9225 17.869 7.9225) (13.778 -17.869 -13.778) 
+      (13.778 -17.869 13.778) (7.9225 22.358 -7.9225) (7.9225 17.869 7.9225)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 2 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 2 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 2 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 1 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
+object { "plan#1"
+  material { "grass_plane_mat_004"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 197 237 130 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 197 237 130 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 197 237 130 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  material { "boulder_mat_004"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 209 209 209 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 209 209 209 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 209 209 209 }
+        factor { 0.70000 }
+      }
+      phongsize { 32 }
+    }
+  }
+  mesh {
+    name { "plane_mesh_01" }
+    base {
+      origin { (-0.44900 0 0.33700) }
+    }
+    material { "boulder_mat_004" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { "boulder_mat_004" }
+      materialname { "grass_plane_mat_004" }
+    }
+    points {
+      (-31.337 -11.832 -32.131) (-31.337 -11.832 32.131) 
+      (-31.337 11.832 -32.131) (-31.337 11.832 32.131) (31.337 -11.832 -32.131) 
+      (31.337 -11.832 32.131) (31.337 11.832 -32.131) (31.337 11.832 32.131)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 0 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 0 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 0 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 1 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
+object { "plane#2"
+  material { "grass_plane_mat_004"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 197 237 130 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 197 237 130 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 197 237 130 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  material { "boulder_mat_005"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 93 50 29 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 93 50 29 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 93 50 29 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  mesh {
+    name { "plane_mesh_02" }
+    base {
+      origin { (-0.44900 0 0.33700) }
+    }
+    material { "boulder_mat_005" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { "boulder_mat_005" }
+      materialname { "grass_plane_mat_004" }
+    }
+    points {
+      (-31.337 -11.832 -32.131) (-31.337 -11.832 32.131) 
+      (-31.337 11.832 -32.131) (-31.337 11.832 32.131) (31.337 -11.832 -32.131) 
+      (31.337 -11.832 32.131) (31.337 11.832 -32.131) (31.337 11.832 32.131)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 0 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 0 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 0 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 1 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
+object { "obelisk"
+  material { "obelisk_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 0 0 0 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 0 0 0 }
+        factor { 0.30000 }
+      }
+      diffuse {
+        rgb { 0 0 0 }
+        factor { 0.70000 }
+      }
+      phongsize { 30 }
+    }
+  }
+  mesh {
+    name { "obelisk_mesh" }
+    base {
+      origin { (-0.22400 0.78600 0) }
+    }
+    material { "obelisk_mat" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { "obelisk_mat" }
+    }
+    points {
+      (-11.679 -51.74 -11.679) (-11.679 -51.74 11.679) (-9.6521 51.74 -9.6521) 
+      (-9.6521 51.74 9.6521) (11.679 -51.74 -11.679) (11.679 -51.74 11.679) 
+      (9.6521 51.74 -9.6521) (9.6521 51.74 9.6521)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 0 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 0 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 0 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 0 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}
+object { "water"
+  material { "water_mat"
+    surface {
+      /* RGB chunk no longer used */
+      rgb { 1 34 93 }
+      lockambiantdiffuse { }
+      ambiant {
+        rgb { 1 34 93 }
+        factor { 1 }
+      }
+      diffuse {
+        rgb { 1 34 93 }
+        factor { 25 }
+      }
+      emissive {
+        rgb { 0 0 0 }
+        factor { 250 }
+      }
+      alpha { 127 }
+      brilliance { 5 }
+      phongsize { 4 }
+    }
+  }
+  mesh {
+    name { "water_mesh" }
+    base {
+      origin { (-0.33000 0 -0.24800) }
+    }
+    material { "water_mat" }
+    smoothangle { 45 }
+    /* 8 points, 6 faces, 8 uvCoords */
+    materiallist {
+      materialname { "water_mat" }
+    }
+    points {
+      (-38.398 -27.085 -38.398) (-38.398 -27.085 38.398) 
+      (-38.398 27.085 -38.398) (-38.398 27.085 38.398) (38.398 -27.085 -38.398) 
+      (38.398 -27.085 38.398) (38.398 27.085 -38.398) (38.398 27.085 38.398)
+    }
+    texcoords {
+      (0 0) (0 0) (0 1) (0 1) (1 0) (1 0) (1 1) (1 1)
+    }
+    faces {
+      4 4 0 -1 ( (0 0) (4 4) (6 6) (2 2) )
+      4 4 0 -1 ( (1 1) (3 3) (7 7) (5 5) )
+      4 4 0 -1 ( (0 0) (2 2) (3 3) (1 1) )
+      4 4 0 -1 ( (4 4) (5 5) (7 7) (6 6) )
+      4 4 0 -1 ( (2 2) (6 6) (7 7) (3 3) )
+      4 4 0 -1 ( (0 0) (1 1) (5 5) (4 4) )
+    }
+  }
+}

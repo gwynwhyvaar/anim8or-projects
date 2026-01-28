@@ -1,0 +1,271 @@
+# Created with Anim8or 0.98
+# Object "object01":
+
+newmtl hair___top
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 742.5
+
+newmtl hair___base
+Ka 0.98 0.894 0.969
+Kd 0.98 0.894 0.969
+Ks 1 1 1
+Ns 742.5
+
+newmtl skin
+Ka 0.596 0.588 0.933
+Kd 0.596 0.588 0.933
+Ks 1 1 1
+Ns 742.5
+
+newmtl eyelid
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 742.5
+
+newmtl eye
+Ka 0.965 0.141 0.122
+Kd 0.965 0.141 0.122
+Ks 1 1 1
+Ns 0.0
+
+newmtl default00
+Ka 0.878 0.878 0.878
+Kd 0.878 0.878 0.878
+Ks 1 1 1
+Ns 752.6
+
+newmtl wing_frame
+Ka 0.176 0.0353 0.0431
+Kd 0.176 0.0353 0.0431
+Ks 1 1 1
+Ns 742.5
+
+newmtl wing_innard
+Ka 0.886 0.0431 0.0667
+Kd 0.886 0.0431 0.0667
+Ks 1 1 1
+d 0.5
+Ns 742.5
+
+newmtl arm_skin
+Ka 0.596 0.588 0.933
+Kd 0.596 0.588 0.933
+Ks 1 1 1
+Ns 742.5
+
+newmtl gloves
+Ka 0.216 0.216 0.216
+Kd 0.216 0.216 0.216
+Ks 1 1 1
+Ns 742.5
+
+newmtl nails
+Ka 0.106 0.106 0.106
+Kd 0.106 0.106 0.106
+Ks 1 1 1
+Ns 993.4
+
+newmtl acolyte_cloak_ma
+Ka 0.914 0.0157 0.0157
+Kd 0.914 0.0157 0.0157
+Ks 1 1 1
+Ns 742.5
+
+newmtl cloak_hem
+Ka 0.914 0.0157 0.0157
+Kd 0.914 0.0157 0.0157
+Ks 1 1 1
+Ns 742.5
+
+newmtl acolyte_forehead
+Ka 0.114 0.122 0.114
+Kd 0.0549 0.0627 0.051
+Ks 1 1 1
+Ns 391.3
+
+newmtl acolyte_forehe00
+Ka 0.671 0.945 0.635
+Kd 0.118 0.729 0.051
+Ks 1 1 1
+Ns 752.6
+
+newmtl tentacle_body_ma
+Ka 0.333 0.0667 0.38
+Kd 0.333 0.0667 0.38
+Ks 1 1 1
+Ns 742.5
+
+newmtl tentacle_sucker_
+Ka 0.949 0.804 0.945
+Kd 0.949 0.804 0.945
+Ks 1 1 1
+Ns 742.5
+
+newmtl tentacle_claw_ma
+Ka 0.161 0.051 0.161
+Kd 0.161 0.051 0.161
+Ks 1 1 1
+Ns 752.6
+
+newmtl cloak
+Ka 0.0118 0 0.00392
+Kd 0.0118 0 0.00392
+Ks 1 1 1
+Ns 742.5
+
+newmtl _bark
+Ka 0.231 0.0157 0.0314
+Kd 0.231 0.0157 0.0314
+Ks 1 1 1
+Ns 742.5
+
+newmtl emerald_orb
+Ka 0.467 0.98 0.373
+Kd 0.467 0.98 0.373
+Ks 1 1 1
+Ns 993.4
+
+newmtl beard
+Ka 0.984 0.918 0.984
+Kd 0.984 0.918 0.984
+Ks 1 1 1
+Ns 742.5
+
+newmtl _orb
+Ka 0.969 0.62 0.91
+Kd 0.969 0.62 0.91
+Ks 1 1 1
+Ns 993.4
+
+newmtl _skin
+Ka 0.596 0.588 0.933
+Kd 0.596 0.588 0.933
+Ks 1 1 1
+Ns 742.5
+
+newmtl _eyes
+Ka 0.831 0.224 0.173
+Kd 0.831 0.224 0.173
+Ks 1 1 1
+Ns 0.0
+
+newmtl eye_mat
+Ka 0.988 0.984 0.831
+Kd 0.988 0.984 0.831
+Ks 0 0 0
+Ns 993.4
+
+newmtl head_top_mat
+Ka 0.192 0.0196 0.51
+Kd 0.192 0.0196 0.51
+Ks 1 1 1
+Ns 752.6
+
+newmtl head_bottom_mat
+Ka 0.663 0.447 0.957
+Kd 0.663 0.447 0.957
+Ks 1 1 1
+Ns 752.6
+
+newmtl dorsal_fin_mat
+Ka 0.196 0.0235 0.322
+Kd 0.196 0.0235 0.322
+Ks 1 1 1
+Ns 451.5
+
+newmtl feather_mat
+Ka 0.961 0.00392 0.00392
+Kd 0.961 0.00392 0.00392
+Ks 1 1 1
+d 0.8
+Ns 752.6
+
+newmtl lock
+Ka 0.753 0.533 0.169
+Kd 0.753 0.533 0.169
+Ks 1 1 1
+Ns 742.5
+
+newmtl cloth
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 742.5
+
+newmtl hat
+Ka 0.141 0.141 0.141
+Kd 0.141 0.141 0.141
+Ks 1 1 1
+Ns 742.5
+
+newmtl shoul
+Ka 0.729 0.184 0.125
+Kd 0.729 0.184 0.125
+Ks 1 1 1
+Ns 742.5
+
+newmtl hem
+Ka 0.0157 0.0157 0.0157
+Kd 0 0 0
+Ks 1 1 1
+Ns 742.5
+
+newmtl tuft
+Ka 0 0 0
+Kd 0.00784 0.00784 0.00784
+Ks 1 1 1
+Ns 742.5
+
+newmtl x_wing_wyvern_horn
+Ka 0.388 0.145 0.0392
+Kd 0.388 0.145 0.0392
+Ks 1 1 1
+Ns 240.8
+
+newmtl x_wing_wyvern_skin
+Ka 0.2 0.235 0.0275
+Kd 0.0627 0.0706 0.00784
+Ks 1 1 1
+Ns 240.8
+
+newmtl x_wing_wyvern_eyes
+Ka 0.949 0.855 0.424
+Kd 0.949 0.855 0.424
+Ks 0.929 0.404 0.31
+Ns 240.8
+
+newmtl x_wing_wyvern_wing_inner
+Ka 0.318 0.0275 0.0275
+Kd 0.318 0.0275 0.0275
+Ks 1 1 1
+d 0.5
+Ns 742.5
+
+newmtl orb_black_flame_mat
+Ka 0.122 0.122 0.122
+Kd 0.122 0.122 0.122
+Ks 0.549 0.369 0.82
+d 0.5
+Ns 742.5
+
+newmtl book_leaf
+Ka 0.961 0.902 0.694
+Kd 0.961 0.902 0.694
+Ks 1 1 1
+Ns 742.5
+
+newmtl book_cover
+Ka 0.286 0.0392 0.0235
+Kd 0.286 0.0392 0.0235
+Ks 1 1 1
+Ns 742.5
+
+newmtl shawl_mat
+Ka 0.933 0.137 0.137
+Kd 0.933 0.137 0.137
+Ks 1 1 1
+Ns 752.6
+

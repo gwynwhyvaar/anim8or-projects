@@ -1,0 +1,33 @@
+# Created with Anim8or 0.98
+# Object "object02":
+
+newmtl _lawn_grass
+Ka 0.192 0.439 0.0706
+Kd 0.192 0.439 0.0706
+Ks 1 1 1
+Ns 742.5
+
+newmtl _bark
+Ka 0.294 0.125 0.0353
+Kd 0.294 0.125 0.0353
+Ks 1 1 1
+Ns 742.5
+
+newmtl _fern
+Ka 0.31 0.475 0.239
+Kd 0.31 0.475 0.239
+Ks 1 1 1
+Ns 742.5
+
+newmtl grass
+Ka 0.537 0.851 0.302
+Kd 0.537 0.851 0.302
+Ks 1 1 1
+Ns 742.5
+
+newmtl gate_color
+Ka 0.482 0.482 0.482
+Kd 0.482 0.482 0.482
+Ks 1 1 1
+Ns 742.5
+
