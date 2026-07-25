@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>Fbx_Root</Name>
+    <Identity>
+      <SourceFilename>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\Models\forceball-mage.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>2.54 0 0 0 0 2.54 0 0 0 0 2.54 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>mesh01</Name>
+        <Transform>0.99999994 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>0.744342864 -1.6747694 35.89292 24.67288 -1.6747694 26.7528954 -11.2199268 19.0479584 26.7528954 -11.2199268 -22.3974953 26.7528954 27.4972553 19.0479584 11.9642544 27.4972553 -22.3974953 11.9642544 -30.5785122 11.1323786 11.9642544 5.314291 31.8553066 11.9642544 5.314291 -35.20484 11.9642544 -30.5785122 -14.4821177 11.9642544 32.0672 11.1325788 -11.9642839 32.0672 -14.4821177 -11.9642839 -26.0085678 19.0479584 -11.9642839 -3.82560539 31.8553066 -11.9642839 -3.82560539 -35.20484 -11.9642839 -26.0085678 -22.3974953 -11.9642839 12.7086115 19.0479584 -26.7529278 12.7086115 -22.3974953 -26.7529278 -23.1841965 -1.6747694 -26.7529278 0.744342864 -1.6747694 -35.8929558</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 2 0 3 2 3 4 7 6 5 7 5 2 7 2 4 3 9 8 3 8 7 3 7 4 0 11 10 0 10 9 0 9 3 5 13 12 5 12 1 5 1 2 8 15 14 8 14 6 8 6 7 1 12 16 1 16 11 1 11 0 10 17 15 10 15 8 10 8 9 6 14 18 6 18 13 6 13 5 16 19 17 16 17 10 16 10 11 18 19 16 18 16 12 18 12 13 17 19 18 17 18 14 17 14 15</Indices>
+            <Vertices>
+              <PositionIndices>4 7 2 1 0 6 9 3 8 5 11 10 13 12 15 14 16 17 18 19</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.8181073 0.376468658 0.434708863 0.1343304 0.985608637 0.10262049 -0.166045547 0.4653422 0.8694168 0.486020327 -0.08887209 0.8694171 0 0 1 -0.7350853 0.520267069 0.4347088 -0.920727849 -0.376469523 0.102620237 -0.3199753 -0.376470238 0.869417 0.04298032 -0.9460509 0.3211549 0.886096239 -0.362308323 0.2890781 0.8407943 -0.4358033 -0.3211548 0.7568166 0.5862273 -0.289078146 -0.314596176 0.881656647 -0.3517255 -0.8860964 0.362309247 -0.289076418 -0.6062398 -0.713275 -0.3517273 0.129279748 -0.948536 -0.2890782 0.3805525 0.510248065 -0.771250069 0.166044667 -0.465342 -0.8694171 -0.6321642 0.07444397 -0.77125 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1.297878 -0.118034005 0.636294 -0.5 0.143177986 -0.118034005 1.213644 0.5 0.5 0.5 -0.434171975 0.118039966 -0.434171975 0.881966 0.143177986 1.118034 0.636294 1.5 1.297878 1.118034 1.43417192 0.881966 1.43417192 0.118034005 0.363706 -0.5 -0.297878027 -0.118034005 -0.297878027 1.118034 0.363706 1.5 0.856822 -0.118034005 0.856822 1.118034 -0.213644028 0.5 0.5 0.5</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>_forceball</Name>
+      <Identity>
+        <SourceFilename>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\Models\forceball-mage.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.31764707 0.721568644 0.0509803928</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0.158823535 0.360784322 0.0254901964</Data>
+        <Data Key="Alpha" Type="float">0.5</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.266666681 0.266666681 0.266666681</Data>
+        <Data Key="SpecularPower" Type="float">1</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

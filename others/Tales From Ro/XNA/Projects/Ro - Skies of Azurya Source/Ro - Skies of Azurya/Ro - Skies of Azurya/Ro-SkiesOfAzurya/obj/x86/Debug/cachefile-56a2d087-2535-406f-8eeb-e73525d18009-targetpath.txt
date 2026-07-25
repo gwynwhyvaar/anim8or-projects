@@ -1,0 +1,15 @@
+Content\Models\nazvhi-flight.xnb
+Content\Models\scythe.xnb
+Content\Models\rock.xnb
+Content\Models\forceball-mage.xnb
+Content\Models\forceball-nazvhy.xnb
+Content\Models\waterfall.xnb
+Content\Fonts\CenturyGothic.xnb
+Content\Images\hpbarx.xnb
+Content\Images\bannerx.xnb
+Content\Images\wizardico40x40.xnb
+Content\Images\forceball40x40.xnb
+Content\Images\bannerx2c.xnb
+Content\Images\nazviico40x40.xnb
+Content\Images\nazvhi-title-background.xnb
+Content\Models\nazvhi-title-background.xnb

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>Fbx_Root</Name>
+    <Identity>
+      <SourceFilename>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\Models\rock.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>2.54 0 0 0 0 2.54 0 0 0 0 2.54 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>rock</Name>
+        <Transform>0.99999994 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>0 -0.312 54.776886 24.7529049 -2.368564 40.8281059 -18.2588959 39.4916534 40.8281174 -18.2588959 -40.115654 40.8281174 19.259161 39.08034 18.25888 32.00445 -35.17989 18.2588825 -47.8023949 24.2876244 18.2588959 6.974284 64.09167 18.2588959 6.974284 -64.71566 18.2588959 -40.6127472 -22.4441242 18.2588825 26.2334385 23.8767 -18.2589111 38.9787331 -19.9762459 -18.25891 -40.8281174 39.4916534 -18.2588959 -6.974284 64.09167 -18.2588959 -6.974284 -64.71566 -18.2588959 -40.8281174 -40.115654 -18.2588959 6.82081127 36.6124649 -40.8281326 18.2588959 -40.115654 -40.8281174 -36.51779 -0.312 -40.8281174 0 -0.312 -54.776886</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 2 0 3 2 3 4 7 6 5 7 5 2 7 2 4 3 9 8 3 8 7 3 7 4 0 11 10 0 10 9 0 9 3 5 13 12 5 12 1 5 1 2 8 15 14 8 14 6 8 6 7 1 12 16 1 16 11 1 11 0 10 17 15 10 15 8 10 8 9 6 14 18 6 18 13 6 13 5 16 19 17 16 17 10 16 10 11 18 19 16 18 16 12 18 12 13 17 19 18 17 18 14 17 14 15</Indices>
+            <Vertices>
+              <PositionIndices>4 7 2 1 0 6 9 3 8 5 11 10 13 12 15 14 16 17 18 19</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.8820963 0.305691749 0.358411282 0.243138313 0.9589748 0.145777717 -0.204751626 0.368801653 0.9066764 0.617022932 -0.03258769 0.786270142 2.66068639E-07 0 1 -0.8054982 0.417600662 0.420454919 -0.945771456 -0.307253629 0.105411492 -0.3902164 -0.3096429 0.8670942 0.09327774 -0.913485169 0.396035433 0.957738042 -0.113353983 0.26436466 0.9563192 -0.191376135 -0.220972225 0.882367134 0.424298316 -0.203467846 -0.3947882 0.836223 -0.380622327 -0.928979158 0.2434704 -0.278782785 -0.722015738 -0.6044644 -0.336624473 0.230440617 -0.913172066 -0.336175472 0.4909134 0.432921439 -0.756031156 0.202688709 -0.380413651 -0.9023318 -0.6821543 0.0293105673 -0.730620563 -1.62063714E-07 -2.23027584E-07 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1.297878 -0.118034005 0.636294 -0.5 0.143177986 -0.118034005 1.213644 0.5 0.5 0.5 -0.434171975 0.118039966 -0.434171975 0.881966 0.143177986 1.118034 0.636294 1.5 1.297878 1.118034 1.43417192 0.881966 1.43417192 0.118034005 0.363706 -0.5 -0.297878027 -0.118034005 -0.297878027 1.118034 0.363706 1.5 0.856822 -0.118034005 0.856822 1.118034 -0.213644028 0.5 0.5 0.5</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>RockFormationSki</Name>
+      <Identity>
+        <SourceFilename>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\Models\rock.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.3647059 0.3647059 0.3647059</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1024</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

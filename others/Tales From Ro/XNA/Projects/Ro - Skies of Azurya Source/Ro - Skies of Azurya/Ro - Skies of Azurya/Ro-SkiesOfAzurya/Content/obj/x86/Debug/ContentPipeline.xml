@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\nazvhi-flight.fbx</Source>
+      <Name>Models\nazvhi-flight</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">7</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\nazvhi-flight.xnb</Output>
+      <Time>2010-08-30T13:55:53.96875+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\nazvhi-flight_0.xml</Key>
+        <Value>2010-10-02T15:58:18.234375+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\scythe.fbx</Source>
+      <Name>Models\scythe</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">8</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\scythe.xnb</Output>
+      <Time>2010-08-30T13:55:53.96875+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\scythe_0.xml</Key>
+        <Value>2010-10-02T15:58:19.703125+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\rock.fbx</Source>
+      <Name>Models\rock</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\rock.xnb</Output>
+      <Time>2010-09-05T04:54:42.5625+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\rock_0.xml</Key>
+        <Value>2010-10-02T15:58:19.8125+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\forceball-mage.fbx</Source>
+      <Name>Models\forceball-mage</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\forceball-mage.xnb</Output>
+      <Time>2010-09-10T00:25:03.984375+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\forceball-mage_0.xml</Key>
+        <Value>2010-10-02T15:58:19.890625+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\forceball-nazvhy.fbx</Source>
+      <Name>Models\forceball-nazvhy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">4</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\forceball-nazvhy.xnb</Output>
+      <Time>2010-09-10T00:25:03.96875+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\forceball-nazvhy_0.xml</Key>
+        <Value>2010-10-02T15:58:19.953125+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\forest.fbx</Source>
+      <Name>Models\waterfall</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\waterfall.xnb</Output>
+      <Time>2010-09-23T15:13:39.125+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\forest_0.xml</Key>
+        <Value>2010-10-02T15:58:22.578125+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Fonts\CenturyGothic.spritefont</Source>
+      <Name>Fonts\CenturyGothic</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Fonts\CenturyGothic.xnb</Output>
+      <Time>2010-09-07T21:36:46.59375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\hpbarx.jpg</Source>
+      <Name>Images\hpbarx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\hpbarx.xnb</Output>
+      <Time>2010-09-07T23:31:32.625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bannerx.jpg</Source>
+      <Name>Images\bannerx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\bannerx.xnb</Output>
+      <Time>2010-09-09T15:12:43.65625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wizardico40x40.jpg</Source>
+      <Name>Images\wizardico40x40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\wizardico40x40.xnb</Output>
+      <Time>2010-09-10T00:07:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\forceball40x40.jpg</Source>
+      <Name>Images\forceball40x40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\forceball40x40.xnb</Output>
+      <Time>2010-09-10T00:41:07.84375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bannerx2c.JPG</Source>
+      <Name>Images\bannerx2c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\bannerx2c.xnb</Output>
+      <Time>2010-09-10T00:43:00.390625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\nazviico40x40.jpg</Source>
+      <Name>Images\nazviico40x40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\nazviico40x40.xnb</Output>
+      <Time>2010-09-14T20:43:05.796875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ro_Labanaktia_Azurya_03.jpg</Source>
+      <Name>Images\nazvhi-title-background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\nazvhi-title-background.xnb</Output>
+      <Time>2010-09-25T22:52:07.140625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\nazvhi-flight.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\nazvhi-flight_0.xml</Output>
+      <Time>2010-08-30T13:55:53.96875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\scythe.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\scythe_0.xml</Output>
+      <Time>2010-08-30T13:55:53.96875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\rock.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\rock_0.xml</Output>
+      <Time>2010-09-05T04:54:42.5625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\forceball-mage.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\forceball-mage_0.xml</Output>
+      <Time>2010-09-10T00:25:03.984375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\forceball-nazvhy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\forceball-nazvhy_0.xml</Output>
+      <Time>2010-09-10T00:25:03.96875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\forest.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\forest_0.xml</Output>
+      <Time>2010-09-23T15:13:39.125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\nazvhi-title-background.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\nazvhi-title-background_0.xml</Output>
+      <Time>2010-10-05T03:03:04.453125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\nazvhi-title-background.fbx</Source>
+      <Name>Models\nazvhi-title-background</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\nazvhi-title-background.xnb</Output>
+      <Time>2010-10-05T03:03:04.453125+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\nazvhi-title-background_0.xml</Key>
+        <Value>2010-10-05T03:03:53.484375+01:00</Value>
+      </Dependency>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-09-08T13:22:32.203125+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,4 @@
+D:\Tales from Ro\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\Content\obj\x86\Debug\ResolveAssemblyReference.cache

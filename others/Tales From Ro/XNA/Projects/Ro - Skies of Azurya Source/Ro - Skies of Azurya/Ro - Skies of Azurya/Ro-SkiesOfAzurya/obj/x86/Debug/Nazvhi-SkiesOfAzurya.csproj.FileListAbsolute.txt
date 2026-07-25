@@ -1,0 +1,103 @@
+D:\Tales from Ro\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Nazvhi-VydmanteaeanSkies.exe
+D:\Tales from Ro\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Nazvhi-VydmanteaeanSkies.pdb
+D:\Tales from Ro\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tales from Ro\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Tales from Ro\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\Nazvhi-VydmanteaeanSkies.exe
+D:\Tales from Ro\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\Nazvhi-VydmanteaeanSkies.pdb
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Nazvhi-SkiesOfAzurya.exe
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Nazvhi-SkiesOfAzurya.pdb
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\Nazvhi-SkiesOfAzurya.exe
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\obj\x86\Debug\Nazvhi-SkiesOfAzurya.pdb
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Nazvhi-SkiesOfAzurya.exe.config
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Content\Images\nazvhi-background.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Content\Models\nazvhi-flight.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Vydmaantya\Nazvhi and the Skies of Vydmaantya\src\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\Nazvhi-VydmanteaeanSkies\bin\x86\Debug\Content\Models\scythe.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\nazvhi-background.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\nazvhi-flight.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\scythe.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\rock.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Fonts\CenturyGothic.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\bannerx.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\hpbarx.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\wizardico40x40.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\bannerx2c.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\forceball40x40.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\forceball-mage.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\forceball-nazvhy.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.exe.config
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.exe.manifest
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.application
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.exe
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.pdb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.exe.manifest
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.application
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.exe
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.pdb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\nazviico40x40.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Nazvhi and the Skies of Azurya\src\Ro - Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\hpbarx.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\bannerx.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\wizardico40x40.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\forceball40x40.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\bannerx2c.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\nazviico40x40.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\nazvhi-flight.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\scythe.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\rock.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\forceball-mage.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\forceball-nazvhy.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Fonts\CenturyGothic.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.exe.config
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.exe.manifest
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.application
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.exe
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Skies Of Azurya.pdb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.exe.manifest
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.application
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.exe
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Skies Of Azurya.pdb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\SkiesOfAzurya.Forms.Splash.resources
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\SkiesOfAzurya.Properties.Resources.resources
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\obj\x86\Debug\Nazvhi-SkiesOfAzurya.csproj.GenerateResource.Cache
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Images\nazvhi-title-background.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\waterfall.xnb
+C:\oZymandea\sdks\Nazvhi and the Skies of Azurya\Ro - Skies of Azurya\Ro-SkiesOfAzurya\bin\x86\Debug\Content\Models\nazvhi-title-background.xnb

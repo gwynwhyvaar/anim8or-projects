@@ -1,0 +1,271 @@
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "1.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "1.Mat2Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "2.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "2.Mat2Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\floor_diffuse.jpg".
+Texture filename: "floor_diffuse.jpg" is too long.
+Texture filename changed to: "floor_di.jpg" in material "3.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\floor_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\mat_diffuse.jpg".
+Texture filename: "mat_diffuse.jpg" is too long.
+Texture filename changed to: "mat_diff.jpg" in material "3.Mat1Tex1" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\mat_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "4.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "4.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "4.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "5.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "5.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "5.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "7.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "8.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "8.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "8.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "9.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "9.Mat2Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "10.Mat0Tex2" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "10.Mat1Tex1" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "10.Mat3Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\banner.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "11.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "11.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "11.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "12.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "12.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "12.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "13.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "13.Mat1Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "13.Mat3Tex1" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "14.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "14.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "14.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "15.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "15.Mat1Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "15.Mat3Tex1" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "16.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "16.Mat2Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "17.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "17.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "17.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "18.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "18.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "18.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "19.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "19.Mat1Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "19.Mat3Tex1" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "20.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "20.Mat2Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "21.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "21.Mat1Tex4" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "21.Mat3Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "22.Mat0Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "22.Mat1Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\SourceAssets\windows.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg".
+Texture filename: "bamboo_diffuse.jpg" is too long.
+Texture filename changed to: "bamboo_d.jpg" in material "22.Mat3Tex1" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\bamboo_diffuse.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg".
+Texture filename: "wood_dark.jpg" is too long.
+Texture filename changed to: "wood_dar.jpg" in material "23.Mat0Tex3" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_dark.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg".
+Texture filename: "wood_light.jpg" is too long.
+Texture filename changed to: "wood_lig.jpg" in material "23.Mat1Tex2" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\wood_light.jpg" in order to function properly.
+
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\cloth.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\metal.jpg".
+Unable to locate texture file "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\gong_diffuse.tga".
+Texture filename: "gong_diffuse.tga" is too long.
+Texture filename changed to: "gong_dif.tga" in material "23.Mat4Tex0" by "H:\Synapse Gaming\Demos and Examples\trunk\Examples\Dojo\Project\Content\Models\gong_diffuse.tga" in order to function properly.
+

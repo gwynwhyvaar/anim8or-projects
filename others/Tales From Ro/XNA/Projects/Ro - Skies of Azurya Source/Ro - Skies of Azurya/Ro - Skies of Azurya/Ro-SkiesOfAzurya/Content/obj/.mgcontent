@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Models/nazvhi-flight.fbx</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Models/scythe.fbx</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Models/rock.fbx</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Images/hpbarx.jpg</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Images/bannerx.jpg</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Images/wizardico40x40.jpg</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Models/forceball-mage.fbx</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Models/forceball-nazvhy.fbx</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Images/forceball40x40.jpg</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Images/bannerx2c.JPG</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Images/nazviico40x40.jpg</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Models/forest.fbx</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Images/Ro_Labanaktia_Azurya_03.jpg</File>
+    <File>C:/Users/Ayotunde/OneDrive/Tales From Ro/XNA/Projects/Ro - Skies of Azurya Source/Ro - Skies of Azurya/Ro - Skies of Azurya/Ro-SkiesOfAzurya/Content/Models/nazvhi-title-background.fbx</File>
+  </SourceFiles>
+</SourceFileCollection>
