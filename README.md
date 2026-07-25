@@ -5,6 +5,12 @@ Some anim8or projects and files; assets for a game built in Monogame, Unity 3d o
 ![GitHub](https://img.shields.io/github/license/gwynwhyvaar/anim8or-projects)
 ![GitHub](https://img.shields.io/static/v1?label=anim8or&message=v.098&color=red)
 
+
+## Updates for July, 25, 2026
+
+Added models for mixamo
+
+
 ## Updates for July, 23, 2024
 
 Added the following new 3d-models created in anim8or
