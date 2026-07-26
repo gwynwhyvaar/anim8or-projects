@@ -4732,7 +4732,7 @@ object { "object01"
     }
   }
 }
-object { "object02"
+object { "player"
   material { "mat_skin"
     surface {
       /* RGB chunk no longer used */
