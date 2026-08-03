@@ -28,11 +28,7 @@ object { "head"
         rgb { 91 34 10 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "mat_skin_nose"
@@ -48,11 +44,7 @@ object { "head"
         rgb { 138 67 14 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   material { "blush_mat"
@@ -68,11 +60,7 @@ object { "head"
         rgb { 162 28 98 }
         factor { 0.70000 }
       }
-      specular {
-        rgb { 255 255 255 }
-        factor { 0.20000 }
-      }
-      phongsize { 32 }
+      phongsize { 30 }
     }
   }
   group {
